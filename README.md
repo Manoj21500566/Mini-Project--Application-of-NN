@@ -1,8 +1,10 @@
 # Mini-Project--Application-of-NN
 
+### NAME:MANOJ M
+### REG NO:212221240027
 
 ## Project Title:
-###                                   Stock market prediction
+### Stock market prediction
 ## Project Description 
    We can observe that the accuracy achieved by the state-of-the-art ML model is no better than simply guessing with a probability of 50%. Possible reasons for this may be the lack of data or using a very simple model to perform such a complex task as Stock Market prediction.
 ## Algorithm:
