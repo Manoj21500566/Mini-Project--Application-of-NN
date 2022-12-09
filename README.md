@@ -128,5 +128,5 @@ Python is the most popular programming language in finance. Because it is an obj
 ## Result:
 Thus, stock market prediction is implemented successfully.
 
-### project by
+### Project by
 Manoj M-212221240027
