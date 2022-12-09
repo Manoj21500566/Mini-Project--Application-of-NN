@@ -1,8 +1,5 @@
 # Mini-Project--Application-of-NN
 
-### NAME:MANOJ M
-### REG NO:212221240027
-
 ## Project Title:
 ### Stock market prediction
 ## Project Description 
@@ -130,3 +127,6 @@ plt.show()
 Python is the most popular programming language in finance. Because it is an object-oriented and open-source language, it is used by many large corporations, including Google, for a variety of projects. Python can be used to import financial data such as stock quotes using the Pandas framework.
 ## Result:
 Thus, stock market prediction is implemented successfully.
+
+### project by
+Manoj M-212221240027
