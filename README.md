@@ -2,7 +2,7 @@
 
 
 ## Project Title:
-                      ### Stock market prediction
+###                                   Stock market prediction
 ## Project Description 
    We can observe that the accuracy achieved by the state-of-the-art ML model is no better than simply guessing with a probability of 50%. Possible reasons for this may be the lack of data or using a very simple model to perform such a complex task as Stock Market prediction.
 ## Algorithm:
@@ -13,7 +13,7 @@
 5.analyze the regression bar plot
 
 ## Program:
-       ### import the necessary pakages
+###                        import the necessary pakages
 ~~~
 import numpy as np
 import pandas as pd
@@ -30,7 +30,7 @@ from sklearn import metrics
 import warnings
 warnings.filterwarnings('ignore')
 ~~~
-         ### install the csv file
+###                       install the csv file
 ~~~
 df = pd.read_csv('/content/Tesla.csv')
 df.head()
